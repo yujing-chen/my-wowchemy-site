@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yujing Chen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: George Mason University
+  url: https://cs.gmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D. student in the Department of Computer Science at George Mason University, supervised by Prof. Huzefa Rangwala. My research interests are Data Mining, Machine Learning, Multi-task Learning, Federated Learning, and Deep Learning motivated by real-world problems in various domains with device data, especially in developing robust and efficient methods for on-device sensor data learning. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Mining
+- Machine Learning
+- Federated Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: George Mason University
+    year: 2016-present
+  - course: Master of Arts
+    institution: Renmin University of China
+    year: 2016
+  - course: Bachelor of Engineering
+    institution: Beijing University of Posts and Telecommunications
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
