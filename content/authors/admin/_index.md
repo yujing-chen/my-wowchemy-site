@@ -14,7 +14,7 @@ organizations:
   url: https://cs.gmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student in the Department of Computer Science at George Mason University, supervised by Prof. Huzefa Rangwala. My research interests are Data Mining, Machine Learning, Multi-task Learning, Federated Learning, and Deep Learning motivated by real-world problems in various domains with device data, especially in developing robust and efficient methods for on-device sensor data learning. 
+#bio: I am a Ph.D. student in the Department of Computer Science at George Mason University, supervised by Prof. Huzefa Rangwala. My research interests are Data Mining, Machine Learning, Multi-task Learning, Federated Learning, and Deep Learning motivated by real-world problems in various domains with device data, especially in developing robust and efficient methods for on-device sensor data learning. 
 
 # Interests to show in About widget
 interests:
@@ -67,9 +67,9 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 I am a Ph.D. student in the Department of Computer Science at George Mason University, supervised by Prof. Huzefa Rangwala. My research interests are Data Mining, Machine Learning, Multi-task Learning, Federated Learning, and Deep Learning motivated by real-world problems in various domains with device data, especially in developing robust and efficient methods for on-device sensor data learning. 
 
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
