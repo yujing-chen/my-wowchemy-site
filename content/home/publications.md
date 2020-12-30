@@ -37,8 +37,3 @@ design:
   view: 2
 ---
 
-{{% callout note %}}
-#Quickly discover relevant content by [filtering publications](./publication/).
-Chai, Zheng, Yujing Chen, Liang Zhao, Yue Cheng, and Huzefa Rangwala. "Fedat: A communication-efficient federated learning method with asynchronous tiers under non-iid data." Preprint https://arxiv.org/pdf/2010.05958.pdf. 
-
-{{% /callout %}}

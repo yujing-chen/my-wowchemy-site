@@ -6,7 +6,7 @@ title: Yujing Chen
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student in Computer Science
+role: Ph.D. student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:

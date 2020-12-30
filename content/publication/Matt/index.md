@@ -1,15 +1,14 @@
 ---
-title: "Running out of stem: a comparative study across stem majors of college students at-risk of dropping out early"
+title: "Attention-based Multi-task Learning for Sensor Analytics"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Aditya Johri
 - Huzefa Rangwala. 
 
-  In Proceedings of the 8th international conference on learning analytics and knowledge
+  In 2019 IEEE International Conference on Big Data (Big Data)
 
 
 # Author notes (optional)
@@ -17,7 +16,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2018-03-07T00:00:00Z"
+date: "2019-12-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,10 +29,10 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 8th international conference on learning analytics and knowledge*
-publication_short: In *LAK*
+publication: In *2019 IEEE International Conference on Big Data (Big Data) (pp. 2187-2196). IEEE.*
+publication_short: In *BigData*
 
-abstract: Higher education institutions in the United States and across the Western world face a critical problem of attrition of college students and this problem is particularly acute within the Science, Technology, Engineering, and Mathematics (STEM) fields. Students are especially vulnerable in the initial years of their academic programs; more than 60% of the dropouts occur in the first two years. Therefore, early identification of at-risk students is crucial for a focused intervention if institutions are to support students towards completion. In this paper we developed and evaluated a survival analysis framework for the early identification of students at the risk of dropping out. We compared the performance of survival analysis approaches to other machine learning approaches including logistic regression, decision trees and boosting. The proposed methods show good performance for early prediction of at-risk students and are also able to predict when a student will dropout with high accuracy. We performed a comparative analysis of nine different majors with varying levels of academic rigor, challenge and student body. This study enables advisors and university administrators to intervene in advance to improve student retention.
+abstract: Sensors and internet of things (IoTs) are ubiquitous in our modern day-to-day living. Applications range from smart home devices that control cooking ranges to mobile phones, wearable devices that serve as fitness trackers and personalized coaches. There is a critical need for the analysis of heterogeneous multivariate temporal data obtained from individual sensors. In this work we show that multi-task learning (MTL) is naturally suited for sensor data learning, and propose a novel multi-task learning approach with attention mechanism, M-Att, that jointly trains classification/regression models from multiple related tasks where data on each task is generated from one or more sensors. The temporal and non-linear relationships underlying the captured data are modeled using a combination of both convolution neural network (CNN) and long-short term memory (LSTM) models. And the attention mechanism seeks to learn shared feature representations across multiple tasks for improving the overall generalizability of the machine learning model. We evaluate our proposed method in both classification and regression settings on an activity recognition dataset and environment monitoring dataset. Comparing the proposed approach to other competitive single-task learning and multi-task learning approaches we demonstrate the high performance of our proposed model with promising results.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3170358.3170410'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9006207?casa_token=hBy6rdBAptkAAAAA:QVY0w_hZ0Hj6j4mhAj98TP5n7InsBVgUZ1ZJpqHVVaMQ9wQz2MKeVuITGhWGCPXGa_ent6a4Jw'
 url_code: ''
 url_dataset: ''
 url_poster: ''
